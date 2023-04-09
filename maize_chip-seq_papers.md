@@ -17,6 +17,7 @@ I documented maize ChIP-Seq or RNA-Seq dataset I can find, including **TF** and 
 3. [RA1][3]. [GRMZM2G003927][11]. [RNA-Seq + ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE51050)
 
 4. [O2][4]. [GRMZM2G015534][12]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61830). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63991).
+5. [bzip22][4]. [Zm00001d021191][12]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE61830). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE53963).
 
 5. [O11][5]. [Zm00001d003677][13]. [RNA-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE97422). [ChIP-Seq](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102051).
 
@@ -37,6 +38,7 @@ I documented maize ChIP-Seq or RNA-Seq dataset I can find, including **TF** and 
 15. [ZmM16 ChIP-seq using ear primordia tissue](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP272724). [Paper](https://www.sciencedirect.com/science/article/pii/S1534580720310212). Maybe [Zm00001d042618](https://www.maizegdb.org/gene_center/gene/Zm00001d042618)
 16. [ZmABI19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136913/). [Zm00001d011712](https://www.maizegdb.org/gene_center/gene/Zm00001d011712). ChIP-Seq and RNA-Seq data in seeds at [SRP259231](https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP259231)
 17. [dlf1 - delayed flowering1](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16772). [Zm00001d022613](https://www.maizegdb.org/gene_center/gene/Zm00001d022613). ChIP-Seq and RNA-Seq data in SAM at [PRJNA616067](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA616067)
+18. ZmICE1.[Zm00001d042263][25]. ChIP-Seq and RNA-Seq data at [SRP167145][26]
 
 ## Epigenomes
 
